@@ -1,0 +1,19 @@
+name: "octets"
+description: "Zero-copy abstraction for parsing and constructing network packets"
+third_party {
+  url {
+    type: HOMEPAGE
+    value: "https://crates.io/crates/octets"
+  }
+  url {
+    type: ARCHIVE
+    value: "https://static.crates.io/crates/octets/octets-0.1.0.crate"
+  }
+  version: "0.1.0"
+  license_type: NOTICE
+  last_upgrade_date {
+    year: 2022
+    month: 9
+    day: 20
+  }
+}
